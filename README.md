@@ -90,8 +90,7 @@ todo-app/
 
 ## 🙋 Author
 
-**Kumar** — Beginner Python Developer  
-GitHub: [@YOUR_USERNAME](https://github.com/YOUR_USERNAME)
+**pooja kumari** — Beginner Python Developer  
 
 ---
 
